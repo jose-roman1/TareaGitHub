@@ -64,5 +64,5 @@ class Medico(Persona):
     def GetEspecialidad(self,especialidad):
          return self.especialidad
 
-
+#Hola
     
